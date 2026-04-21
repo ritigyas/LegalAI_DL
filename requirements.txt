@@ -1,0 +1,10 @@
+streamlit
+pdfplumber
+sentence-transformers
+faiss-cpu
+transformers
+requests
+beautifulsoup4
+openai
+scikit-learn
+google-generativeai
