@@ -1,0 +1,54 @@
+AILA_Q1 | Labour Law      | Labour Law      | ✅
+AILA_Q2 | Criminal Law    | Criminal Law    | ✅
+AILA_Q3 | Criminal Law    | Criminal Law    | ✅
+AILA_Q4 | Criminal Law    | Criminal Law    | ✅
+AILA_Q5 | Criminal Law    | Criminal Law    | ✅
+AILA_Q6 | Criminal Law    | Criminal Law    | ✅
+AILA_Q7 | Criminal Law    | Criminal Law    | ✅
+AILA_Q8 | Criminal Law    | Criminal Law    | ✅
+AILA_Q9 | Criminal Law    | Criminal Law    | ✅
+AILA_Q10 | Criminal Law    | Criminal Law    | ✅
+AILA_Q11 | Criminal Law    | Criminal Law    | ✅
+AILA_Q12 | Criminal Law    | Criminal Law    | ✅
+AILA_Q13 | Criminal Law    | Labour Law      | ❌
+AILA_Q14 | Criminal Law    | Criminal Law    | ✅
+AILA_Q15 | Criminal Law    | Criminal Law    | ✅
+AILA_Q16 | Criminal Law    | Criminal Law    | ✅
+AILA_Q17 | Criminal Law    | Criminal Law    | ✅
+AILA_Q18 | Criminal Law    | Criminal Law    | ✅
+AILA_Q19 | Criminal Law    | Criminal Law    | ✅
+AILA_Q20 | Criminal Law    | Criminal Law    | ✅
+AILA_Q21 | Labour Law      | Labour Law      | ✅
+AILA_Q22 | Criminal Law    | Criminal Law    | ✅
+AILA_Q23 | General Law     | General Law     | ✅
+AILA_Q24 | Criminal Law    | Criminal Law    | ✅
+AILA_Q25 | Property Law    | Property Law    | ✅
+AILA_Q26 | Property Law    | Property Law    | ✅
+AILA_Q27 | Criminal Law    | Criminal Law    | ✅
+AILA_Q28 | Criminal Law    | Criminal Law    | ✅
+AILA_Q29 | Criminal Law    | Criminal Law    | ✅
+AILA_Q30 | Criminal Law    | Criminal Law    | ✅
+AILA_Q31 | Property Law    | Property Law    | ✅
+AILA_Q32 | Criminal Law    | Criminal Law    | ✅
+AILA_Q33 | Labour Law      | Criminal Law    | ❌
+AILA_Q34 | Criminal Law    | Criminal Law    | ✅
+AILA_Q35 | Criminal Law    | Criminal Law    | ✅
+AILA_Q36 | General Law     | General Law     | ✅
+AILA_Q37 | Criminal Law    | Criminal Law    | ✅
+AILA_Q38 | Criminal Law    | Criminal Law    | ✅
+AILA_Q39 | Criminal Law    | Criminal Law    | ✅
+AILA_Q40 | General Law     | General Law     | ✅
+AILA_Q41 | Criminal Law    | Criminal Law    | ✅
+AILA_Q42 | Property Law    | Property Law    | ✅
+AILA_Q43 | Family Law      | Family Law      | ✅
+AILA_Q44 | Property Law    | Criminal Law    | ❌
+AILA_Q45 | Criminal Law    | Criminal Law    | ✅
+AILA_Q46 | Criminal Law    | Criminal Law    | ✅
+AILA_Q47 | Criminal Law    | Criminal Law    | ✅
+AILA_Q48 | Criminal Law    | Criminal Law    | ✅
+AILA_Q49 | Criminal Law    | Criminal Law    | ✅
+AILA_Q50 | Criminal Law    | Criminal Law    | ✅
+====================
+ACCURACY: 94.00%
+TOTAL: 50 | CORRECT: 47
+====================

@@ -1,0 +1,132 @@
+[
+    {
+        "query_id": "AILA_Q1",
+        "domain": "Labour Law",
+        "retrieved_cases": [
+            "State of Punjab vs Jagjit Singh",
+            "Dena Bank vs Kiritikumar Patel",
+            "Workmen vs Firestone Tyre & Rubber Co."
+        ],
+        "ranked_cases": [
+            "State of Punjab vs Jagjit Singh",
+            "Workmen vs Firestone Tyre & Rubber Co."
+        ]
+    },
+    {
+        "query_id": "AILA_Q2",
+        "domain": "Criminal Law",
+        "retrieved_cases": [
+            "State of Maharashtra vs Salman Salim Khan",
+            "K.M. Nanavati vs State of Maharashtra",
+            "Bachan Singh vs State of Punjab"
+        ],
+        "ranked_cases": [
+            "K.M. Nanavati vs State of Maharashtra",
+            "Bachan Singh vs State of Punjab"
+        ]
+    },
+    {
+        "query_id": "AILA_Q3",
+        "domain": "Property Law",
+        "retrieved_cases": [
+            "Suraj Lamp Industries vs State of Haryana",
+            "Narandas Karsondas vs S.A. Kamtam",
+            "Rame Gowda vs M. Varadappa Naidu"
+        ],
+        "ranked_cases": [
+            "Suraj Lamp Industries vs State of Haryana",
+            "Rame Gowda vs M. Varadappa Naidu"
+        ]
+    },
+    {
+        "query_id": "AILA_Q4",
+        "domain": "Family Law",
+        "retrieved_cases": [
+            "Shayara Bano vs Union of India",
+            "Sarla Mudgal vs Union of India",
+            "Vimla vs Veeraswamy"
+        ],
+        "ranked_cases": [
+            "Shayara Bano vs Union of India",
+            "Sarla Mudgal vs Union of India"
+        ]
+    },
+    {
+        "query_id": "AILA_Q5",
+        "domain": "Criminal Law",
+        "retrieved_cases": [
+            "Maneka Gandhi vs Union of India",
+            "DK Basu vs State of West Bengal",
+            "Joginder Kumar vs State of UP"
+        ],
+        "ranked_cases": [
+            "DK Basu vs State of West Bengal",
+            "Joginder Kumar vs State of UP"
+        ]
+    },
+    {
+        "query_id": "AILA_Q6",
+        "domain": "General Law",
+        "retrieved_cases": [
+            "Kesavananda Bharati vs State of Kerala",
+            "Minerva Mills vs Union of India",
+            "I.R. Coelho vs State of Tamil Nadu"
+        ],
+        "ranked_cases": [
+            "Kesavananda Bharati vs State of Kerala",
+            "Minerva Mills vs Union of India"
+        ]
+    },
+    {
+        "query_id": "AILA_Q7",
+        "domain": "Criminal Law",
+        "retrieved_cases": [
+            "State of Rajasthan vs Kashi Ram",
+            "Sharad Birdhichand Sarda vs State of Maharashtra",
+            "Hanumant Govind vs State of MP"
+        ],
+        "ranked_cases": [
+            "Sharad Birdhichand Sarda vs State of Maharashtra",
+            "Hanumant Govind vs State of MP"
+        ]
+    },
+    {
+        "query_id": "AILA_Q8",
+        "domain": "Property Law",
+        "retrieved_cases": [
+            "M.C. Mehta vs Union of India",
+            "Indian Council for Enviro-Legal Action vs Union of India",
+            "Subhash Kumar vs State of Bihar"
+        ],
+        "ranked_cases": [
+            "M.C. Mehta vs Union of India",
+            "Subhash Kumar vs State of Bihar"
+        ]
+    },
+    {
+        "query_id": "AILA_Q9",
+        "domain": "Labour Law",
+        "retrieved_cases": [
+            "Bandhua Mukti Morcha vs Union of India",
+            "People's Union for Democratic Rights vs Union of India",
+            "Olga Tellis vs Bombay Municipal Corporation"
+        ],
+        "ranked_cases": [
+            "Bandhua Mukti Morcha vs Union of India",
+            "People's Union for Democratic Rights vs Union of India"
+        ]
+    },
+    {
+        "query_id": "AILA_Q10",
+        "domain": "Criminal Law",
+        "retrieved_cases": [
+            "Nirbhaya Case",
+            "State of Karnataka vs Krishnappa",
+            "Tukaram vs State of Maharashtra"
+        ],
+        "ranked_cases": [
+            "Nirbhaya Case",
+            "State of Karnataka vs Krishnappa"
+        ]
+    }
+]
