@@ -2,7 +2,7 @@ import google.generativeai as genai
 import os
 
 
-genai.configure(api_key="AIzaSyDExQL_1dbuGAXbTZgaLkIkOdeWUjU1UPw")
+genai.configure(api_key="AIzaSyDpl5yizB8_lZVGzmkDF2dt5vgU0IFkXM0")
 model = genai.GenerativeModel("gemini-flash-latest")
 
 
@@ -50,7 +50,7 @@ def generate_output(query, context, cases, domain):
 
     response = model.generate_content(
         prompt,
-        generation_config={"max_output_tokens": 90000}  # 🔥 FIXED
+        generation_config={"max_output_tokens": 99000}  # 🔥 FIXED
     )
 
     return response.text

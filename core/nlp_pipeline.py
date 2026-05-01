@@ -25,5 +25,8 @@ def process_query(query):
         return "Criminal Law"
     elif "property" in query:
         return "Property Law"
+    elif "family" in query:
+        return "Family Law"
     else:
-        return "General Law"
+        result = classifier(query, labels)
+        return result["labels"][0]
